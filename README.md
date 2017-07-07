@@ -1,2 +1,2 @@
 # hello-world-
-This is for learning about tool
+This is first commite what i do
